@@ -12,4 +12,4 @@ Work about atomic scale surface reconstructions on the surface of the crystallin
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: L. Liborio, C. Sanchez, A. Paxton and M. Finnis. </i>J. Phys.: Condensed Matter </i> 17, L223- L230, (2005).
+Recommended citation: L. Liborio, C. Sanchez, A. Paxton and M. Finnis, J. Phys.: Condensed Matter 17, L223- L230, (2005).
