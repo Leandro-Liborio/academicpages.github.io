@@ -2,7 +2,7 @@
 title: "Stability of Sr Adatom Model Structures for SrTiO3(001) Surface Reconstructions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Work about computational modelling of muon properties in crystalline benzene.'
+excerpt: 'Work about atomic scale surface reconstructions on the surface of the crystalline material strontium titanate.'
 date: 02/05/2005
 venue: 'Journal of Physics: Condensed Matter'
 paperurl: 'https://leandro-liborio.github.io/files/paper1.pdf'
