@@ -5,11 +5,11 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Work about computational modelling of muon properties in crystalline benzene.'
 date: 02/05/2005
 venue: 'Journal of Physics: Condensed Matter'
-paperurl: 'https://github.com/leandro-liborio/leandro-liborio.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/leandro-liborio/leandro-liborio.github.io/blob/master/files/paper1.pdf'
 citation: 'L. Liborio, C. Sanchez, A. Paxton and M. Finnis. </i>J. Phys.: Condensed Matter </i> 17, L223- L230, (2005).'
 ---
 Work about atomic scale surface reconstructions on the surface of the crystalline material strontium titanate. 
 
-[Download paper here]( https://github.com/leandro-liborio/leandro-liborio.github.io/files/paper1.pdf)
+[Download paper here]( https://github.com/leandro-liborio/leandro-liborio.github.io/blob/master/files/paper1.pdf)
 
 Recommended citation: L. Liborio, C. Sanchez, A. Paxton and M. Finnis, J. Phys.: Condensed Matter 17, L223- L230, (2005).
