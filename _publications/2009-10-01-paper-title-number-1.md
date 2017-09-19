@@ -1,15 +1,15 @@
 ---
-title: "Exploring the Temperature Dependent Solid-State ALC Spectrum of the C6H6Mu Radical with Ab-Initio Simulation Techniques"
+title: "Stability of Sr Adatom Model Structures for SrTiO3(001) Surface Reconstructions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Work about computational modelling of muon properties in crystalline benzene.'
-date: 2009-10-01
-venue: 'Journal of Physical Society of Japan: Conference Proceedings (To Be Published)'
+date: 02/05/2005
+venue: 'Journal of Physics: Condensed Matter'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Leandro Liborio et. al. (2005). &quot;Stability of Sr Adatom Model Structures for SrTiO3(001) Surface Reconstructions Number .&quot; <i>J. Phys.: Condensed Matter 17</i>. L223- L230.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Work about atomic scale surface reconstructions on the surface of the crystalline material strontium titanate. 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Leandro Liborio et. al. (2005). &quot;Stability of Sr Adatom Model Structures for SrTiO3(001) Surface Reconstructions Number .&quot; <i>J. Phys.: Condensed Matter 17</i>. L223- L230.
