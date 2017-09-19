@@ -6,10 +6,10 @@ excerpt: 'Work about computational modelling of muon properties in crystalline b
 date: 02/05/2005
 venue: 'Journal of Physics: Condensed Matter'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Leandro Liborio et. al. (2005). &quot;Stability of Sr Adatom Model Structures for SrTiO3(001) Surface Reconstructions Number .&quot; <i>J. Phys.: Condensed Matter 17</i>. L223- L230.'
+citation: 'L. Liborio, C. Sanchez, A. Paxton and M. Finnis. </i>J. Phys.: Condensed Matter </i> 17, L223- L230, (2005).'
 ---
 Work about atomic scale surface reconstructions on the surface of the crystalline material strontium titanate. 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Leandro Liborio et. al. (2005). &quot;Stability of Sr Adatom Model Structures for SrTiO3(001) Surface Reconstructions Number .&quot; <i>J. Phys.: Condensed Matter 17</i>. L223- L230.
+Recommended citation: L. Liborio, C. Sanchez, A. Paxton and M. Finnis. </i>J. Phys.: Condensed Matter </i> 17, L223- L230, (2005).
