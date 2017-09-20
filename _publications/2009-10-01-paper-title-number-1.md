@@ -10,6 +10,4 @@ citation: 'L. Liborio, C. Sanchez, A. Paxton and M. Finnis. </i>J. Phys.: Conden
 ---
 Work about atomic scale surface reconstructions on the surface of the crystalline material strontium titanate. 
 
-[Download paper here]( https://leandro-liborio.github.io/files/paper1.pdf)
-
 Recommended citation: L. Liborio, C. Sanchez, A. Paxton and M. Finnis, J. Phys.: Condensed Matter 17, L223- L230, (2005).
