@@ -3,7 +3,7 @@ title: "Thermodynamics of oxygen defective Magneli Phases in Rutile: A First Pri
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 07-03-2008
+date: 07/03/2008
 venue: 'Physical review B'
 citation: 'L. Liborio and N. Harrison. Physical Review B 77, 104104, 2008'
 ---
