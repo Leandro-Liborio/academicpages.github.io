@@ -2,6 +2,10 @@
 title: "Electronic structure of the Ti4O7 Magnéli phase"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'In this work we used DFT to study the electronic structure
+of the Ti4O7 Magneli phase.  We proposed a model to explain the unusual behaviour of the electronic 
+structure of this this phase as a function of temperature.'    
+date: 07/03/2008
 date: 29/06/2009
 venue: 'Physical Review B'
 citation: 'L. Liborio, G. Mallia and N. Harrison. Physical Review B, 79, 245133, 2009'
