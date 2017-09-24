@@ -14,4 +14,4 @@ CuGaSe2 (001) surface are calculated for different environmental conditions. The
 (1 ×1) reconstruction, and a Cu-poor, Se-rich (4 × 1) reconstruction, are the only stable surfaces under
 all the studied environmental conditions. Two complementary mechanisms for the stabilisation of CuGaSe2
 surfaces are proposed, and it is suggested that the presence of Na stabilises the (4 × 1) reconstructions, making
-them the stable terminations under Na-rich conditions
+them the stable terminations under Na-rich conditions.
