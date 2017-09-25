@@ -1,8 +1,8 @@
 ---
 title: "Exploring the Temperature Dependent Solid-State ALC Spectrum of the C6H6Mu• Radical with Ab-Initio Simulation Techniques"
 collection: publications
-excerpt: 'In this work we doped a Manganate with extrinsic defects and analyzed the effects of the 
-doping on the magnetic and electronic properties of the Manganate.' 
+excerpt: 'In this work, we used a number of different computational techniques to study the temperature dependence of 
+the Avoided Level Crossing spectrum of crystalline benzene.' 
 date: 
 permalink: /publications/JAJP-ConfSer-2017
 venue: 'Japanese Journal of Physics: Conference Series'
