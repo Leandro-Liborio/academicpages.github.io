@@ -11,17 +11,23 @@ redirect_from:
 
 Education
 ======
-* Queen Mary University of London, United Kingdom
-  CERTIFICATE IN INTELLECTUAL PROPERTY LAW September 2012 - January 2013
+* Queen Mary University of London, United Kingdom.
+  CERTIFICATE IN INTELLECTUAL PROPERTY LAW,
+  2012-2013
   
 * Birkbeck College, University of London, United Kingdom.
-  POSTGRADUATE DIPLOMA IN SCIENCE COMMUNICATION, Dissertation: Media Coverage of Nanotechnology, 2007-2009.
+  POSTGRADUATE DIPLOMA IN SCIENCE COMMUNICATION, 
+  Dissertation: Media Coverage of Nanotechnology, 
+  2007-2009.
   
 * Queen’s University of Belfast, Northern Ireland, United Kingdom.
-  PhD IN COMPUTATIONAL PHYSICS, Project: Ab initio atomistic thermodynamics of the SrTiO3(001) surface, 2002-2005.
+  PhD IN COMPUTATIONAL PHYSICS, 
+  Project: Ab initio atomistic thermodynamics of the SrTiO3(001) surface, 
+  2002-2005.
 
 * Universidad Nacional de Rosario, Rosario, Santa Fe, Argentina.
-  LICENCIATURA EN FISICA (Licentiate in Physics), 1997-2002. 
+  LICENCIATURA EN FISICA (Licentiate in Physics), 
+  1997-2002. 
 
 Work experience
 ======
