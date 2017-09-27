@@ -14,17 +14,14 @@ Education
 * Queen Mary University of London, United Kingdom
   CERTIFICATE IN INTELLECTUAL PROPERTY LAW September 2012 - January 2013
   
-* Birkbeck College, University of London, United Kingdom
-  POSTGRADUATE DIPLOMA IN SCIENCE COMMUNICATION Dissertation: Media Coverage of Nanotechnology
-  January 2007 - January 2009
+* Birkbeck College, University of London, United Kingdom.
+  POSTGRADUATE DIPLOMA IN SCIENCE COMMUNICATION, Dissertation: Media Coverage of Nanotechnology, 2007-2009.
   
-* Queen’s University of Belfast, Northern Ireland, United Kingdom
-  PhD IN COMPUTATIONAL PHYSICS
-  Supervisors: Prof. Michael W. Finnis and Dr. Anthony Paxton
-  Project: Ab initio atomistic thermodynamics of the SrTiO3(001) surface November 2002 - December 2005.
+* Queen’s University of Belfast, Northern Ireland, United Kingdom.
+  PhD IN COMPUTATIONAL PHYSICS, Project: Ab initio atomistic thermodynamics of the SrTiO3(001) surface, 2002-2005.
 
-* Universidad Nacional de Rosario, Rosario, Santa Fe, Argentina
-  LICENCIATURA EN FISICA (Licentiate in Physics). Graduation date: October 2002. First Class Honours
+* Universidad Nacional de Rosario, Rosario, Santa Fe, Argentina.
+  LICENCIATURA EN FISICA (Licentiate in Physics), 1997-2002. 
 
 Work experience
 ======
