@@ -31,6 +31,13 @@ Education
 
 Work experience
 ======
+* SCIENTIFIC ADVISOR
+  * Blavatnik School of Government, University of Oxford, Oxford, UK
+  * The Blavatnik School of Government is a global school committed to excellence in leadership and public policy education   and to pursuing a vision of better government, stronger societies, and richer human opportunities across the world.
+  
+I worked as a Scientific Advisor at the Science and Public Policy core module in the the Master of Public Policy (MPP). The Master of Public Policy (MPP) is a one-year taught degree course. The purpose of the MPP is to enable students to develop analytical and critical skills relevant for understanding the challenges of public policy and its implementation. In particular, the Science and Public Policy module considers ways of understanding scientific and medical evidence, the policy implications of this evidence, and the interplay between science and conflicting policy concerns.
+
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
