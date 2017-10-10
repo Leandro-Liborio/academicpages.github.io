@@ -1,4 +1,3 @@
-
 ---
 title: "Ab initio Atomistic Thermodynamics of the (001)surface of Strontium Titanate"
 collection: publications
