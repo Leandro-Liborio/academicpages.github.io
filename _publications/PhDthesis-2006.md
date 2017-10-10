@@ -9,7 +9,7 @@ on SrTiO3(001), and on the set of surface phase transitions observed by Kubo and
 permalink: /publication/PhDthesis-2006
 date: 07/12/2006
 venue: "Queen's University Belfast"
-citation: 'L. Liborio, PhD Thesis, Queens University Belfast, 2006'
+citation: "L. Liborio, PhD Thesis, Queen's University Belfast, 2006"
 ---
 
 [Download paper here](http://leandro-liborio.github.io/files/liborio-phdthesis.pdf)
