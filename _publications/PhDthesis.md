@@ -10,6 +10,7 @@ models proposed to explain the (2×1) and c(4×2) reconstructions on SrTiO3(001)
 the set of surface phase transitions observed by Kubo and Nozoye on SrTiO3(001).' 
 permalink: /publications/PhDthesis
 date: 07/12/2005
+paperurl: '(https://journals.aps.org/prb/abstract/10.1103/PhysRevB.79.245133)'
 venue: 'Queen's University Belfast'
 citation: 'L. Liborio, PhD Thesis, Queen's University Belfast, 2005.'
 ---
