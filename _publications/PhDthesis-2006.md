@@ -2,7 +2,7 @@
 title: "Ab initio Atomistic Thermodynamics of the (001) surface of Strontium Titanate"
 collection: publications
 permalink: /publication/PhDthesis-2006
-date: 02/05/2010
+date: 07/12/206
 venue: 'Journal of Physics: Conference Series'
 citation: 'C. Bailey, L. Liborio, G. Mallia, S. Tomic and N. Harrison. Journal of Physics: Conference Series, 242, 012004, 2010.'
 ---
