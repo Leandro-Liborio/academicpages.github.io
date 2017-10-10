@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/PhDthesis-2006
 date: 07/12/206
 venue: 'Journal of Physics: Conference Series'
-citation: 'C. Bailey, L. Liborio, G. Mallia, S. Tomic and N. Harrison. Journal of Physics: Conference Series, 242, 012004, 2010.'
+citation: 'L. Liborio, PhD Thesis, 2006'
 ---
 
 [Download paper here](http://leandro-liborio.github.io/files/liborio-phdthesis.pdf)
