@@ -1,5 +1,5 @@
 ---
-title: "Calculating Charged Defects using CRYSTAL"
+title: "Ab initio Atomistic Thermodynamics of the (001) surface of Strontium Titanate"
 collection: publications
 permalink: /publication/PhDthesis-2006
 date: 02/05/2010
