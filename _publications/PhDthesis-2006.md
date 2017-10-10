@@ -12,7 +12,7 @@ venue: "Queen's University Belfast"
 citation: "L. Liborio, PhD Thesis, Queen's University Belfast, 2006"
 ---
 
-[Download paper here](http://leandro-liborio.github.io/files/liborio-phdthesis.pdf)
+[Download thesis here](http://leandro-liborio.github.io/files/liborio-phdthesis.pdf)
 
 In this thesis I studied the atomic scale models that were proposed to understand the surface
 reconstructions observed on SrTiO3 (001). I investigated these atomic scale models using first principles
