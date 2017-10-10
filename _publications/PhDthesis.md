@@ -3,7 +3,7 @@ title: "Defect Physics of CuGaS2"
 collection: publications
 excerpt: ' This work is about materials for fotovotaics applications. In this work we studied the
 efect of doping the well-known chalcopyrite CuGaS2 with intrinsic and extrinsic defects.' 
-date: 07/03/2008
+date: 07/12/2006
 permalink: /publications/PhDthesis
 date: 07/12/2006
 venue: 'Physical Review B'
