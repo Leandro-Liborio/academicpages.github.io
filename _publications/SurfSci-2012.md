@@ -1,7 +1,7 @@
 ---
 title: "Atomic Structure of the (001) Surface of CuGaSe2"
 collection: publications
-excerpt: ' This work is about fotovoltaicmaterials. In this work we studied the
+excerpt: ' This work is about fotovoltaic materials. In this work we studied the
 stability of the (001) surface of CuGaSe2.' 
 date: 28/11/2011
 permalink: /publications/SurfSci-2012
