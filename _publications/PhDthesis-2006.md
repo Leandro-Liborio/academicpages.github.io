@@ -1,6 +1,7 @@
 ---
 title: "Ab initio Atomistic Thermodynamics of the (001) surface of Strontium Titanate"
 collection: publications
+excerpt : ''
 permalink: /publication/PhDthesis-2006
 date: 07/12/206
 venue: 'Journal of Physics: Conference Series'
@@ -9,9 +10,9 @@ citation: 'L. Liborio, PhD Thesis, 2006'
 
 [Download paper here](http://leandro-liborio.github.io/files/liborio-phdthesis.pdf)
 
-The scope of this thesis covers the study of the atomic scale models that were proposed to understand the surface
-reconstructions that have been observed on SrTiO3(001). These atomic scale models were investigated using first principles
-total energy calculations. Two newly proposed models for SrTiO3(001) were studied: the so called Sr adatom model and the 
+In this thesis I studied the atomic scale models that were proposed to understand the surface
+reconstructions observed on SrTiO3 (001). I investigated these atomic scale models using first principles
+calculations. Two newly proposed models for SrTiO3(001) were studied: the so called Sr adatom model and the 
 double layer model. In particular, I have focused on the models proposed to explain the (2×1) and c(4×2) reconstructions 
 on SrTiO3(001), and on the set of surface phase transitions observed by Kubo and Nozoye on SrTiO3(001).
 
