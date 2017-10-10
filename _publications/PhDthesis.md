@@ -13,6 +13,7 @@ venue: 'Queen's University Belfast'
 citation: 'L. Liborio, PhD Thesis, Queen's University Belfast, 2005.'
 ---
 
+
 [Download paper here](http://leandro-liborio.github.io/files/liborio-phdthesis.pdf)
 
 The scope of this thesis covers the study of the atomic scale models that were proposed to understand the surface
