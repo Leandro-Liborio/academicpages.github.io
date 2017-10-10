@@ -8,7 +8,7 @@ double layer model. In particular, I have focused on the models proposed to expl
 on SrTiO3(001), and on the set of surface phase transitions observed by Kubo and Nozoye on SrTiO3(001).'
 permalink: /publication/PhDthesis-2006
 date: 07/12/2006
-venue: 'Journal of Physics: Conference Series'
+venue: 'Queen's University Belfast'
 citation: 'L. Liborio, PhD Thesis, 2006'
 ---
 
