@@ -1,13 +1,11 @@
 ---
-title: "Defect Physics of CuGaS2"
+title: "Calculating Charged Defects using CRYSTAL"
 collection: publications
-excerpt: ' This work is about materials for fotovotaics applications. In this work we studied the
-efect of doping the well-known chalcopyrite CuGaS2 with intrinsic and extrinsic defects.' 
-date: 07/12/2006
-permalink: /publications/2006PhDthesis
-date: 07/12/2006
-venue: 'Physical Review B'
-citation: 'C. Bailey, L. Liborio, G. Mallia, S. Tomic and N. Harrison. Physical Review B, 81, 205214, (2010).'
+permalink: /publication/PhDthesis-2006
+date: 02/05/2010
+venue: 'Journal of Physics: Conference Series'
+citation: 'C. Bailey, L. Liborio, G. Mallia, S. Tomic and N. Harrison. Journal of Physics: Conference Series, 242, 012004, 2010.'
+---
 
 [Download paper here](http://leandro-liborio.github.io/files/liborio-phdthesis.pdf)
 
