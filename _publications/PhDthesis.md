@@ -14,6 +14,7 @@ date: 07/12/2005
 paperurl: '(https://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.104104)'
 venue: 'Queen's University Belfast'
 citation: 'L. Liborio, PhD Thesis, Queen's University Belfast, 2005.'
+
 ---
 
 [Download paper here](http://leandro-liborio.github.io/files/liborio-phdthesis.pdf)
