@@ -6,8 +6,12 @@ efect of doping the well-known chalcopyrite CuAlS2 with intrinsic and extrinsic 
 date: 25/01/2011
 permalink: /publications/JAppPhys-2011
 venue: 'Journal of Applied Physics'
+paperurl: '(http://aip.scitation.org/doi/abs/10.1063/1.3544206)'
 citation: 'L. M. Liborio, C. Bailey, Giuseppe Mallia, S. Tomic and Nicholas Harrison. J. Appl. Phys., 109, 023519, (2011).'
 ---
+
+[Download paper here](http://leandro-liborio.github.io/files/paper5.pdf)
+
 We used hybrid exchange density functional theory to study the wide band gap chalcopyrite CuAlS2.
 The formation energies of charged and neutral intrinsic defects are calculated for different
 environmental conditions, and it is shown that CuAlS2 is a p-type material that cannot be type
