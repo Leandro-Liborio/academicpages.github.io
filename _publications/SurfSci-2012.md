@@ -6,8 +6,12 @@ stability of the (001) surface of CuGaSe2.'
 date: 28/11/2011
 permalink: /publications/SurfSci-2012
 venue: 'Surface Science'
+paperurl: '(http://www.sciencedirect.com/science/article/pii/S0039602811004511)'
 citation: 'Liborio L, Chew SC, Harrison N, Surface Science, 606, 496, (2012).'
 ---
+
+[Download paper here](http://leandro-liborio.github.io/files/paper8.pdf)
+
 We used hybrid exchange density functional theory is to study the wide band gap chalcopyrite CuGaSe2. The formation
 energies of the experimentally observed (4 × 1) and (1 × 1) atomic scale reconstructions on the
 CuGaSe2 (001) surface are calculated for different environmental conditions. The results suggest that a Se-rich
