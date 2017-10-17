@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Leandro Liborio - Computational Research Scientist at the Rutherford Appleton Laboratory"
+title: "Computational Research Scientist at the Rutherford Appleton Laboratory"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
