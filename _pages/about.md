@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a member of the Theoretical and Computational Physics Group (TCPG) working at the Rutherford Appleton Laboratory, in Harwell, Oxfordshire, UK. The TCPG works together with a number of scientific communities in the development, deployment, maintenance and training of computational modelling codes mostly based on electronic structure theories.
+I am a member of the Theoretical and Computational Physics Group (TCPG) working at the [Rutherford Appleton Laboratory](http://www.stfc.ac.uk/about-us/where-we-work/rutherford-appleton-laboratory/), in Harwell, Oxfordshire, UK. The TCPG works together with a number of scientific communities in the development, deployment, maintenance and training of computational modelling codes mostly based on electronic structure theories.
 
 I am currently working on research projects in collaboration with the muon spectroscopy community. Muon spectroscopy is a powerful experimental technique that has the ability to probe the atomic local structure and magnetic environment in different materials. Some of the application areas include unconventional superconductivity, quantum magnetism, semiconductor physics and charge transport. 
 
@@ -21,7 +21,7 @@ Between January and April of 2016, I worked as Scientific Advisor for the Blavat
 
 Intellectual Property
 -------
-From November 2011 to September 2015 I worked as trainee patent attorney and patent assistant for the british firms Marks & Clerk and Boult.  My job involved the drafting, preparation, filing and prosecution of PCT, UK and European patents in areas of expertise which included: nanotechnology, mechanical engineering, telecommunications, medical devices, manufacturing processes, software and computer-implemented inventions.  As part of my training, I obtained a postgraduate certificate in Intellectual Property from Queen Mary University of London.  
+From November 2011 to September 2015 I worked as trainee patent attorney and patent assistant for the British firms Marks & Clerk and Boult.  My job involved the drafting, preparation, filing and prosecution of PCT, UK and European patents in areas of expertise which included: nanotechnology, mechanical engineering, telecommunications, medical devices, manufacturing processes, software and computer-implemented inventions.  As part of my training, I obtained a postgraduate certificate in Intellectual Property from Queen Mary University of London.  
 
 Research
 -------
