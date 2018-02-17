@@ -29,5 +29,5 @@ Between January 2006 and September 2011 I worked as a Research Associate at [Imp
 
 Science Journalism
 -------
-From July 2010 and October 2011, I worked as an editor and freelance science writer for [Form and Content Media Limited](http://www.fac-media.com/, a London-based media company. My job included re-writing, editing, proofing and formatting expert-written articles in the areas of Nanotechnology, Alternative Energies, Illumination and Displays, and Optical Design and Engineering. The articles were published in the web-based technical news service ’SPIE Newsroom’. SPIE is the international society for optics and photonics founded in 1955 to advance light-based technologies.
+From July 2010 and October 2011, I worked as an editor and freelance science writer for [Form and Content Media Limited](http://www.fac-media.com/), a London-based media company. My job included re-writing, editing, proofing and formatting expert-written articles in the areas of Nanotechnology, Alternative Energies, Illumination and Displays, and Optical Design and Engineering. The articles were published in the web-based technical news service ’SPIE Newsroom’. SPIE is the international society for optics and photonics founded in 1955 to advance light-based technologies.
 
