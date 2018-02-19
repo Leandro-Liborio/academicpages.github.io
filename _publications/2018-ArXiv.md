@@ -9,7 +9,7 @@ permalink: /publications/2018-ArXiv
 date: 31/01/2018
 venue: 'arXiv e-print service: Materials Science'
 paperurl: '(https://arxiv.org/abs/1801.10454)'
-citation: 'L. Liborio, S. Sturniolo and D. Jochym, arXiv:1801.10454'
+citation: 'Computational Prediction of Muon Stopping Sites, L. Liborio, S. Sturniolo and D. Jochym,'
 ---
 
 [Download paper here](http://leandro-liborio.github.io/files/paper12.pdf)
