@@ -7,7 +7,7 @@ that can be used to predict muon stopping sites in crystalline materials using o
 date: 31/01/2018
 permalink: /publications/2018-ArXiv
 date: 31/01/2018
-venue: 'Accepted for publication in the Journal of Chemical Physics'
+venue: 'The Journal of Chemical Physics (Accepted for publication)'
 paperurl: '(https://arxiv.org/abs/1801.10454)'
 citation: 'Computational Prediction of Muon Stopping Sites, L. Liborio, S. Sturniolo and D. Jochym,'
 ---
