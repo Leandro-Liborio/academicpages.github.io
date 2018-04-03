@@ -8,7 +8,7 @@ date: 31/01/2018
 permalink: /publications/2018-ArXiv
 date: 31/01/2018
 venue: 'The Journal of Chemical Physics (Accepted for publication)'
-paperurl: '(https://arxiv.org/abs/1801.10454)'
+paperurl: 'https://arxiv.org/abs/1801.10454'
 citation: 'Computational Prediction of Muon Stopping Sites, L. Liborio, S. Sturniolo and D. Jochym,'
 ---
 
