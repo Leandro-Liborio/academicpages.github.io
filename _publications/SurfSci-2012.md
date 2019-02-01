@@ -6,8 +6,9 @@ stability of the (001) surface of CuGaSe2.'
 date: 28/11/2011
 permalink: /publications/SurfSci-2012
 venue: 'Surface Science'
-paperurl: '(http://www.sciencedirect.com/science/article/pii/S0039602811004511)'
+paperurl: 'http://www.sciencedirect.com/science/article/pii/S0039602811004511'
 citation: 'Liborio L, Chew SC, Harrison N, Surface Science, 606, 496, (2012).'
+
 ---
 
 [Download paper here](http://leandro-liborio.github.io/files/paper8.pdf)
