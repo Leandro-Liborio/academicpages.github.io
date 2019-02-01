@@ -4,7 +4,7 @@ for finding the muon stopping site in organic molecular crystals"
 collection: publications
 excerpt: 'The stopping site of the muon in a muon-spin relaxation experiment (mu+SR) is generally unknown and there
 few techniques that can be used to determine the muon stopping site. In this work, we compare the accuracy and computational
-costs of two purely theoretical methods that can be used to predict muon stopping sites in organiccrystalline materials 
+costs of two purely theoretical methods that can be used to predict muon stopping sites in organic crystalline materials 
 using only computer simulations.' 
 date: 15/01/2019
 permalink: /publications/2019-ArXiv
