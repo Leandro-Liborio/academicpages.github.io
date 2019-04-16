@@ -12,6 +12,8 @@ I am a member of the Theoretical and Computational Physics Group (TCPG) working 
 
 I am currently working on research projects in collaboration with the muon spectroscopy community. Muon spectroscopy is a powerful experimental technique that has the ability to probe the atomic local structure and magnetic environment in different materials. Some of the application areas include unconventional superconductivity, quantum magnetism, semiconductor physics and charge transport. 
 
+I am a 2019  Fellow of the [Software Sustainability Institute](https://www.software.ac.uk/).
+
 Before
 ======
 
