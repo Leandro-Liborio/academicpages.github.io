@@ -6,7 +6,7 @@ excerpt: 'The stopping site of the muon in a muon-spin relaxation experiment (mu
 few techniques that can be used to determine the muon stopping site. In this work, we compare the accuracy and computational
 costs of two purely theoretical methods that can be used to predict muon stopping sites in organic crystalline materials 
 using only computer simulations.' 
-date: 15/01/2019
+date: 16/04/2019
 permalink: /publications/2019-ArXiv
 date: 15/01/2019
 venue: 'Under Review at: The Journal of Chemical Physics'
