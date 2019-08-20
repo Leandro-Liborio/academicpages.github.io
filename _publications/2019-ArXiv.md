@@ -9,7 +9,7 @@ using only computer simulations.'
 date: 16/04/2019
 permalink: /publications/2019-ArXiv
 date: 15/01/2019
-venue: 'Under Review at: The Journal of Chemical Physics'
+venue: 'The Journal of Chemical Physics'
 paperurl: 'https://aip.scitation.org/doi/10.1063/1.5085197'
 citation: 'Comparison between Density Functional Theory and Density Functional Tight Binding approaches for finding 
 the muon stopping site in organic molecular crystals, arXiv:1812.02999 [physics.comp-ph]'
